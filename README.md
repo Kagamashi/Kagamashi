@@ -2,9 +2,9 @@
 
 #### A DevOps by day ☼ and a Batman by night ☾
 
-Systems Engineer at [DigitalHangar]([https://medicare.pt](https://digitalhangar.aero)?ref=github-kagamashi)<br>
+Systems Engineer at [DigitalHangar]([http://digitalhangar.aero?ref=github-kagamashi)<br>
 
-- ⚙️ I use daily: `azure`, `terraform`, `kubernetes`, `istio`, `python`, 
+- ⚙️ I use daily: `azure`, `terraform`, `kubernetes`, `istio`, `python` and many more..
 - 🌍 I'm mostly active within the **SysOps/DevOps Poland** and **Microsoft Azure User Group Poland**
 - 💬 `ping` me about anything
 
