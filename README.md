@@ -1,19 +1,18 @@
-# Mikolaj Borecki
+### Hello there 👋
 
 #### A DevOps by day ☼ and a Batman by night ☾
 
 Systems Engineer at [DigitalHangar]([https://medicare.pt](https://digitalhangar.aero)?ref=github-kagamashi)<br>
 
-- ⚙️ I use daily:
-- 🌍 I'm mostly active within the
-- 💅 Designed
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `azure`, `terraform`, `kubernetes`, `istio`, `python`, 
+- 🌍 I'm mostly active within the **SysOps/DevOps Poland** and **Microsoft Azure User Group Poland**
+- 💬 `ping` me about anything
 
 ### Languages & Tools 🛠
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
