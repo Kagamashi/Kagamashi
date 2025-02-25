@@ -1,37 +1,20 @@
-### Hello there 👋
+## Hello there 👋
 
-#### A DevOps by day ☼ and a Batman by night ☾
-
-Systems Engineer at Lufthansa Group -> [DigitalHangar](http://digitalhangar.aero)<br>
+Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.aero)<br>
 
 - ⚙️ I use daily: `azure`, `terraform`, `kubernetes`, `istio`, `python` and many more..
-- 🌍 I'm mostly active within the **SysOps/DevOps Poland** and **Microsoft Azure User Group Poland**
+- 🌍 I'm mostly active within the [**SysOps/DevOps Poland**](https://www.sysopspolska.pl) and [**Microsoft Azure User Group Poland**](https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/) communities
+- 🏃 Separate from work I'm a caring father, runner, reader and enthusiast of innovative technologies.
 - 💬 `ping` me about anything
+
 
 #### Languages & Tools 🛠
 
-<div >
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" alt="Elasticsearch" title="Elasticsearch"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=terraform,kubernetes,azure,git,py,go,linux,bash,postgres)](https://skillicons.dev)
 
 
-#### Let's connect ? 🤝
+#### Let's connect 🤝
 
 <p align="left">
-<a href="http://digitalhangar.aero"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<a href="www.linkedin.com/in/mikolajborecki">
+<img alt="youtube subscribers" title="Linkedinl" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> </p>
