@@ -15,6 +15,5 @@ Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.
 
 #### Let's connect 🤝
 
-<p align="left">
-<a href="www.linkedin.com/in/mikolajborecki">
-<img alt="youtube subscribers" title="Linkedinl" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikolajborecki/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mikolaj.borecki1@gmail.com)
