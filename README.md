@@ -39,7 +39,7 @@ Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.
     <img src="certifications/tf.png" alt="Terraform" width="80">
 </a>
 
-<a href="[https://learn.microsoft.com/api/credentials/share/en-us/BORECKIMIKOLAJ-6994/5706983D76D382EA?sharingId=D9D288E5A9AF06BA](https://www.credly.com/badges/ecb8367e-5c84-4810-bf75-bf304fea7fe5/public_url)">
+<a href="https://www.credly.com/badges/ecb8367e-5c84-4810-bf75-bf304fea7fe5/public_url">
     <img src="certifications/lfcs.png" alt="LFCS" width="80">
 </a>
 
