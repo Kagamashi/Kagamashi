@@ -17,3 +17,4 @@ Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikolajborecki/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mikolaj.borecki1@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mikolaj-borecki.de5073e3)
