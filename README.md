@@ -10,7 +10,7 @@ Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.
 
 #### Languages & Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,azure,kubernetes,git,py,go,linux,bash,elasticsearch,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,azure,kubernetes,git,py,go,linux,bash,elasticsearch,postgres,cloudflare)](https://skillicons.dev)
 
 
 <details>
