@@ -1,20 +1,22 @@
 ## Hello there 👋
 
-Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.aero)<br>
+I'm an experienced **DevOps & Cloud Engineer** with expertise in designing, automating, and securing scalable infrastructure.
 
-- ⚙️ I use daily: `terraform`, `azure`, `kubernetes`, `istio`, `python` and many more..
-- 🌍 I'm mostly active within the [**SysOps/DevOps Poland**](https://www.sysopspolska.pl) and [**Microsoft Azure User Group Poland**](https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/) communities
-- 🏃 Separate from work I'm a caring father, runner, reader and enthusiast of innovative technologies.
-- 💬 `ping` me about anything
+Currently working at **Lufthansa Group → [DigitalHangar](http://digitalhangar.aero)**, where I focus on **custom Kubernetes operators** to manage Azure resources.  
+
+- I'm active within the [**SysOps/DevOps Poland**](https://www.sysopspolska.pl) and [**Microsoft Azure User Group Poland**](https://www.meetup.com/pl-PL/microsoft-azure-users-group-poland/) communities
+- Separate from work I'm a caring father, runner, reader and enthusiast of innovative technologies.
 
 
-#### Languages & Tools 🛠
+#### 🛠 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=terraform,azure,kubernetes,git,py,go,linux,bash,elasticsearch,postgres,cloudflare)](https://skillicons.dev)
 
+---
 
-<details>
-    <summary><b>My Certifications 💯</b></summary>
+### 🎓 Certifications  
+> `Click on images to verify credentials`
+
   <p>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/BORECKIMIKOLAJ-6994/5706983D76D382EA?sharingId=D9D288E5A9AF06BA">
         <img src="certifications/az-104.png" alt="AZ-104" width="90">
@@ -38,10 +40,10 @@ Systems Engineer at Lufthansa Group -> [**DigitalHangar**](http://digitalhangar.
         <img src="certifications/lfcs.png" alt="LFCS" width="90">
     </a>
   </p>
-</details>
 
+---
 
-#### Let's connect 🤝
+#### 🚀 Actively seeking new opportunities! Let's connect and talk DevOps!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikolajborecki/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mikolaj.borecki1@gmail.com)
