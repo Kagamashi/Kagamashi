@@ -10,7 +10,7 @@ Currently working at **Lufthansa Group → [DigitalHangar](http://digitalhangar.
 
 #### 🛠 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=terraform,azure,kubernetes,git,py,go,linux,bash,elasticsearch,postgres,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=terraform,azure,gcp,kubernetes,git,py,go,linux,bash,elasticsearch,postgres,cloudflare)](https://skillicons.dev)
 
 ---
 
